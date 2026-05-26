@@ -1,2 +1,2 @@
 # healthbot
-AI powered patient education system
+AI powered patient education system with LangChain and LangGraph
